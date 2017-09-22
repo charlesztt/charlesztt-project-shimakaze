@@ -116,11 +116,8 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-# cfg file
-shimakaze.cfg
-
 # test script
 main.py
 
 # json file
-shimakaze.json
+*.json
