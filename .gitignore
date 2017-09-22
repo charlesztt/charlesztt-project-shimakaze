@@ -121,3 +121,6 @@ shimakaze.cfg
 
 # test script
 main.py
+
+# json file
+shimakaze.json
